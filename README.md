@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mohammad.
-- 💻️ I’m interested in System Programming & Web-Development.
+- 💻️ I’m interested in System Programming & Web Development.
 - 🌱 I’m currently learning Rust & Machine Learning...
 - 📫 Reach me: javadsemail@gmail.com
 - ⚡ Current Stack:
+  - [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   - React / NextJs
   - Express / Nest
   - PostgreSQL / MongoDB
