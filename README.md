@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Rust & Machine Learning...
 - 📫 Reach me: javadsemail@gmail.com
 - ⚡ Current Stack:
-  - [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
   - React / NextJs
   - Express / Nest
   - PostgreSQL / MongoDB
