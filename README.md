@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Mohammad.
-- 💻️ I’m interested in System Programming & Web Development.
-- 🌱 I’m currently learning Rust & Machine Learning...
+- 💻️ a Software Engineer
+- 🌱 currently learning Rust & Machine Learning...
 - 📫 Reach me: javadsemail@gmail.com
 - ⚡ Current Stack:
+  - Golang / Rust / Javascript / Typescript
+  - Gin / Expressjs / Nestjs
   - React / NextJs
-  - Express / Nest
-  - PostgreSQL / MongoDB
-  - MUI / Mantine / TailwindCSS / Styled-Components
+  - MySQL / PostgreSQL / MongoDB
+  - TailwindCSS / MUI / Mantine
   - Redux / Redux Toolkit / Zustandd
   - React Query / Apollo
 <!---
