@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad.
 - 💻️ a Software Engineer
-- 🌱 currently learning Rust & Machine Learning...
 - 📫 Reach me: javadsemail@gmail.com
 - ⚡ Current Stack:
   - Golang / Rust / Javascript / Typescript
