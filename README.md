@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad.
+- 👋 Hi, It's Mohammad.
 - 💻️ a Software Engineer
-- 📫 Reach me: javadsemail@gmail.com
+- 📫 Reach at: javadsemail@gmail.com
 - ⚡ Current Stack:
   - Golang / Rust / Javascript / Typescript
   - Gin / Expressjs / Nestjs
