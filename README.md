@@ -1,10 +1,10 @@
-- 👋 Hi, It's Mohammad.
-- 💻️ a Software Engineer
+- 👋 It's Mohammad.
+- 💻️ Software Engineer
 - 📫 Reach at: javadsemail@gmail.com
 - ⚡ Current Stack:
-  - Golang / Rust / Javascript / Typescript
+  - Golang / Nodejs / React
   - Gin / Expressjs / Nestjs
-  - React / NextJs
+  - React / React-Native / NextJs
   - MySQL / PostgreSQL / MongoDB
   - TailwindCSS / MUI / Mantine
   - Redux / Redux Toolkit / Zustandd
