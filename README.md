@@ -1,7 +1,7 @@
 - 💻️ Software Engineer
 - 📫 javadsemail@gmail.com
 - ⚡ Current Stack:
-  - Javadscript / Typescript / Golang 
+  - JavaScript / TypeScript / Golang 
   - React / NextJs / React-Native
   - Expressjs / Gin
   - MySQL / PostgreSQL / Sqlite
