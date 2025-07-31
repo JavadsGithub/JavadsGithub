@@ -1,13 +1,12 @@
-- 👋 It's Mohammad.
 - 💻️ Software Engineer
-- 📫 Reach at: javadsemail@gmail.com
+- 📫 javadsemail@gmail.com
 - ⚡ Current Stack:
-  - Golang / Nodejs / React
-  - Gin / Expressjs / Nestjs
-  - React / React-Native / NextJs
-  - MySQL / PostgreSQL / MongoDB
-  - TailwindCSS / MUI / Mantine
-  - Redux / Redux Toolkit / Zustandd
+  - Javadscript / Typescript / Golang 
+  - React / NextJs / React-Native
+  - Expressjs / Gin
+  - MySQL / PostgreSQL / Sqlite
+  - TailwindCSS / MUI / Shadcn
+  - Redux / Redux Toolkit / Zustand
   - React Query / Apollo
 <!---
 JavadsGithub/JavadsGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
